@@ -1,7 +1,7 @@
 ## Hello! I'm Ting Wen 👋
 
 - 🔭 I’m currently studying in the Advanced Game Design program at Langara College. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning C++ & React.
 - 📫 How to reach me: tingwen55555@gmail.com
 - 💬 Ask me about anything :D
 
